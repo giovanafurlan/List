@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    width: 200px;
+    margin-left: 100px;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    background-color: #01ab63;
+}
+
+#quant {
+    width: 50px;
+}
+
+#price {
+    width: 70px;
+}
+
+#btn {
+    font-family: 'Roboto';
+    width: 100px;
+    height: 30px;
+    margin-left: 150px;
+    font-size: 15px;
+    border-radius: 20px;
+    border-color: #01ab63;
+    color: white;
+    background-color: #01ab63;
+}
+
+#btn:hover {
+    background-color: #046c1f
+}
